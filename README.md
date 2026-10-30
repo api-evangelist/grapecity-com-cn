@@ -72,18 +72,78 @@ GrapeCity (葡萄城) is a professional software development technology and low�
 
 Everything profiled for grapecity-com-cn is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/grapecity-com-cn/](https://apis.io/providers/grapecity-com-cn/)** — or go straight to one of the APIs or properties below.
 
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Grapecity Com Cn Authentication](https://apis.io/security/grapecity-com-cn/grapecity-com-cn-authentication/)
+- [Grapecity Com Cn Domain Security](https://apis.io/security/grapecity-com-cn/grapecity-com-cn-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Grapecity Com Cn Scopes](https://apis.io/scopes/grapecity-com-cn/grapecity-com-cn-scopes/)
+
 ## Where to find this API
 
 Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
 
 - [Website](https://grapecity.com.cn/)
 - [Documentation](https://www.grapecity.com.cn/developer/)
+- [Getting started](https://www.grapecity.com.cn/solutions/wyn/help/docs/quick-start)
 - [Support](https://www.grapecity.com.cn/)
+- [Blog](https://www.grapecity.com.cn/blogs)
+- [Security](https://www.grapecity.com.cn/solutions/huozige/security)
+- [Privacy policy](https://www.grapecity.com.cn/aboutus/privacy)
 - [GitHub](https://github.com/GrapeCity)
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/grapecity-com-cn/](https://apis.io/providers/grapecity-com-cn/).
+**Kin Score 18.9** — emerging · rubric 0.25.0 · scored 2026-10-30
+
+| Facet | Score |
+|---|---|
+| Discoverability | 50.0 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 15.8 |
+| Developer ergonomics | 45.2 |
+| Access clarity | 10.5 |
+
+**Agent readiness 6.0** — agent-aware
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 19.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/grapecity-com-cn/](https://apis.io/providers/grapecity-com-cn/).
 
 ## How this profile is made
 
